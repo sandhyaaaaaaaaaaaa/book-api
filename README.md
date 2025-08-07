@@ -1,0 +1,1 @@
+A REST API (Representational State Transfer) allows communication between a client and server using HTTP methods like GET, POST, PUT, and DELETE. Here's a quick guide to building a REST API with Node.js and Express.js:
